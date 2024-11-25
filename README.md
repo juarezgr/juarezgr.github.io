@@ -1,1 +1,2 @@
-# juarezgr.github.io
+# About Me
+My name is Grethel "Alexandra" Juárez (she/they), and I am a prospective graduate student seeking programs to pursue Ph.D.-level research on tropical avian diseases. Currently, I work as a research assistant investigating vocal development in parrots and songbirds in the BIRDS (Behavior IntegRated with Data Science) Lab under Dr. Grace Smith-Vidaurre at Michigan State University. Last May, I became the first in my family to earn a B.S. in Biology with a minor in Biostatistics from Loyola University Chicago. Beyond research, I have a strong passion for music, particularly as a singer-songwriter. I have performed at various venues around Chicago since the age of 9 and have shared some of these performances as YouTube videos.
