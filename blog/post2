@@ -1,0 +1,127 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title> G. Alexandra Juárez's Website </title>
+		<link rel="icon" type="image/x-icon" href="images/extra/GAJ.svg" />
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<meta property="og:title" content="G. Alexandra Juárez's Website" />
+		<meta property="og:image" content="images/extra/GAJ.png" />
+		<meta property="og:url" content="https://juarezgr.github.io/" />
+		<meta property="og:type" content="website" />
+	</head>
+  
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+		<div id="wrapper">
+
+			<!-- Main -->
+			<div id="main">
+				<div class="inner">
+
+					<!-- Header -->
+					<header id="header">
+						<a href="../index.html" class="logo"><strong>G. Alexandra Juárez's</strong> Website</a>
+						<ul class="icons">
+							<li><a href="https://x.com/gajuarez5" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.instagram.com/gajuarez5/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://github.com/juarezgr" class="icon brands fa-github"><span class="label">Github</span></a></li>
+							<li><a href="https://www.linkedin.com/in/gajuarez5/" class="icon brands fa-linkedin"><span class="label">linkedin</span></a></li>
+						</ul>
+					</header>
+
+					<!-- Blog Post Content -->
+					<section>
+									<header class="main">
+										<h1>🐦 Winging It with GAJ 🌱 - Who Am I ??? 🤔 Part 1</h1>
+										<h3>Posted on: 12/19/2025</h3>
+									</header>
+
+						<p>Being labeled as a know-it-all and banned from answering questions by my math and science teachers made me a leader figure among my 30-student, gifted-program Chicago Public middle school classroom 🤓. To pass the time, I would sneak into different table groups to see if anyone needed help with the problem on the board. In high school, I enjoyed my classes much more once I was able to opt into a higher-level science course and a double-period Calculus course. It was a no-brainer for me when the opportunity presented itself to minor in Biostatistics while majoring in Biology at Loyola University Chicago 🎓. </p>
+            
+						<p>The reason I love my science and math classes so much is not that they came naturally to me (because they did not 🥲). I love them because I appreciate how logical and intuitive they are, also allowing creative freedom through their promotion of curiosity and solution-oriented goals. If I were struggling with a topic, it gave me comfort knowing that once I recognized the foundational patterns and trends, I could apply them to harder and more complex concepts 👷🏼.</p>
+						
+						<p>It was not until my senior year of university that I found the niche I knew I could dedicate the rest of my life to. Infectious Diseases in Wildlife, taught by my supportive mentor, Dr. Molly Staley, ignited my interest in disease ecology 🤩. I love how it highlights the interconnectedness between animals, humans, microorganisms, and our environment. Living in a city has sometimes made me forget about the biodiversity that surrounds me. This class enlightened me about the effects of urbanization, climate change, and extinction on disease transmission and spillover. I became fascinated by the One-Health approach and how I could make a difference not only for our society, but also for the wildlife and environment that we take for granted 🌎. </p>
+						
+						<p>Pursuing a PhD would enable me to become an infectious disease modeler who can assess spillover/pandemic risk, raise awareness of ecological issues, and address health disparities that affect families like mine.</p>
+            
+            <p><strong>Next week:</strong> Who am I???  🧐 part 2</p>
+            
+            <p>Let's dive into some of my pivotal experiences to see how they have shaped my perspective and led me to where I am today!</p>
+            
+					</section>
+				</div> <!-- closes .inner -->
+			</div> <!-- closes #main -->
+
+			<!-- Sidebar -->
+			<div id="sidebar">
+				<div class="inner">
+
+					<!-- Menu -->
+					<nav id="menu">
+						<header class="major">
+							<h2>Menu</h2>
+						</header>
+						<ul>
+							<li><a href="../index.html">Homepage</a></li>
+							<li><a href="../research.html">Research</a></li>
+							<li><a href="../publications_and_presentations.html">Publications & Presentations</a></li>
+							<li><a href="../cv.html">CV</a></li>
+							<li><a href="../blog.html">Blog</a></li>
+							<li><a href="../contact_information.html">Contact Information</a></li>
+							<li>
+								<span class="opener">Extracurriculars</span>
+								<ul>
+									<li><a href="../outreach.html">Outreach</a></li>
+									<li><a href="../music.html">Music</a></li>
+									<li><a href="../gallery.html">Gallery</a></li>
+								</ul>
+							</li>
+						</ul>
+					</nav>
+
+					<!-- Section -->
+					<section>
+						<header class="major">
+							<h2>Get in touch</h2>
+						</header>
+						<p>The best way to contact me is via email between 9:00 AM and 5:00 PM on weekdays. I aim to respond within 48 hours. If you do not hear back from me within that timeframe, please feel free to follow up.</p>
+						<ul class="contact">
+							<li class="icon solid fa-envelope"><a href="mailto:gajuarez5435@gmail.com">gajuarez5435@gmail.com</a></li>
+							<li class="icon solid fa-phone">(312) 890-4240</li>
+						</ul>
+					</section>
+
+					<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; gajuarez. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+					</footer>
+
+				</div> <!-- closes sidebar .inner -->
+			</div> <!-- closes #sidebar -->
+
+		</div> <!-- closes #wrapper -->
+
+		<!-- Scripts -->
+		<script src="../assets/js/jquery.min.js"></script>
+		<script src="../assets/js/browser.min.js"></script>
+		<script src="../assets/js/breakpoints.min.js"></script>
+		<script src="../assets/js/util.js"></script>
+		<script src="../assets/js/main.js"></script>
+		<script src="https://utteranc.es/client.js"
+        repo="juarezgr/juarezgr.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+	</body>
+</html>
